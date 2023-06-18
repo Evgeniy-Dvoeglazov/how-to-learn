@@ -24,4 +24,4 @@
 
 **Проект опубликован на GitHub Pages**
 
-* [Ссылка на опубликованный проект](https://evgeniy-dvoeglazov.github.io/how-to-learn/)https://evgeniy-dvoeglazov.github.io/how-to-learn/)
+* [Ссылка на опубликованный проект](https://evgeniy-dvoeglazov.github.io/how-to-learn/)
